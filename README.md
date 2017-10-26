@@ -5,7 +5,8 @@ This dataset was collected via google form survey between Oct 4 and Oct 24, 2017
 Entries have been slightly cleaned up to remove those that clearly weren't costumes, or obvious repeated spamming of the same costume.
 Duplicates have not been removed, nor has capitalization been regularized.
 
-I'll post the original dataset on 10/26/2017 once my blog post on char-rnn generated costumes goes live.
+Read my post about the results, and the neural network I trained on them, here:
+http://aiweirdness.com/post/166814009412/a-neural-network-designs-halloween-costumes
 
 Original form (still active for now; may post an updated larger dataset later if I get enough entries):
 https://docs.google.com/forms/d/e/1FAIpQLSeZDZVL9r_0JbVsN4xVpv3IG5zHHorkFyqYX1yRXvLs-MiaQA/viewform
